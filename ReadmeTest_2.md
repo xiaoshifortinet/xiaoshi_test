@@ -3,3 +3,4 @@ test
 randomly add sth
 new local change
 edit file 
+test commit time
