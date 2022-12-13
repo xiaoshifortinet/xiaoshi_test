@@ -1,0 +1,14 @@
+Email_T  
+abc@abc.com
+abc@jlu.edu.cn
+abc_t@sina.com
+abc-t@yahoo.com.cn
+abc@10.100.0.43
+12345678@qq.com
+test.casb@163.com
+abc/@tom.com
+123@yahoo.com.tw 
+mail1@netzero.net
+test123@gmail.com
+ABCDEFGH@hotmail.com
+"test23"@berkeley.edu
